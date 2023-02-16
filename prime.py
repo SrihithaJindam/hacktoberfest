@@ -1,5 +1,5 @@
 # Program to check if a number is prime or not
-
+#assign the number variable a value
 num = 29
 
 # To take input from the user
